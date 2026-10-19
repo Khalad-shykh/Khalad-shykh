@@ -90,8 +90,6 @@ A React-based e-commerce portfolio project focused on reusable components and fr
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khalad-shykh&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalad-shykh&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Khalad-shykh&theme=tokyonight&hide_border=true)
