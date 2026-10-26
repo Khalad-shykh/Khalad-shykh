@@ -1,4 +1,4 @@
-# Hi, I'm Khalad Sheikh 👋
+# Hi, I'm Muhammad Khalad 👋
 
 ### Full Stack Developer | PHP • Laravel • MySQL • REST APIs
 
